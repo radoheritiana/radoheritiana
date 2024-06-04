@@ -1,5 +1,6 @@
-## Hi there, I'm RADO
-🌱 I’m currently learning Symfony, Laravel, Spring boot, Angular Js, React Js and Vue Js<br>
+## Hi there, I'm RADO, a Software engineer
+### Fullstack Symfony React js Developer
+🌱 I’m currently learning Laravel and Vue Js<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jose.alain.radoheritiana.99) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alain-radoheritiana-8bb905217/) 
